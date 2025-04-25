@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|c:\\users\\excalibur\\source\\repos\\eokul\u00F6rnek\\ogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\notislemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:notislemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencibilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogrencibilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogretmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmengiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogretmengiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:ogretmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\notislemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2017BADB-C120-4EA0-8075-CFA634CB4517}|eokul\u00F6rnek.csproj|solutionrelative:notislemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ogretmenekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmenekle.cs",
+              "RelativeDocumentMoniker": "ogretmenekle.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmenekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogretmenekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:51:17.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\frmogrenci.cs",
+              "RelativeDocumentMoniker": "frmogrenci.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\frmogrenci.cs",
+              "RelativeToolTip": "frmogrenci.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:51:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmogrenci.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\frmogrenci.cs",
+              "RelativeDocumentMoniker": "frmogrenci.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\frmogrenci.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmogrenci.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:41:09.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ogretmendetay.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmendetay.cs",
+              "RelativeDocumentMoniker": "ogretmendetay.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmendetay.cs",
+              "RelativeToolTip": "ogretmendetay.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:25:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:55:11.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "notislemform.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\notislemform.cs",
+              "RelativeDocumentMoniker": "notislemform.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\notislemform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "notislemform.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:30:01.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ogretmengiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmengiris.cs",
+              "RelativeDocumentMoniker": "ogretmengiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmengiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogretmengiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:57:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ogrencibilgi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencibilgi.cs",
+              "RelativeDocumentMoniker": "ogrencibilgi.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencibilgi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogrencibilgi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:58:19.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ogretmendetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmendetay.cs",
+              "RelativeDocumentMoniker": "ogretmendetay.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmendetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogretmendetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:23:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ogrencigiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencigiris.cs",
+              "RelativeDocumentMoniker": "ogrencigiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencigiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ogrencigiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:03:16.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ogretmenekle.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmenekle.cs",
+              "RelativeDocumentMoniker": "ogretmenekle.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogretmenekle.cs",
+              "RelativeToolTip": "ogretmenekle.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:51:19.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "notislemform.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\notislemform.cs",
+              "RelativeDocumentMoniker": "notislemform.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\notislemform.cs",
+              "RelativeToolTip": "notislemform.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:54:08.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ogrencigiris.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencigiris.cs",
+              "RelativeDocumentMoniker": "ogrencigiris.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\eokul\u00F6rnek\\ogrencigiris.cs",
+              "RelativeToolTip": "ogrencigiris.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:03:19.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
